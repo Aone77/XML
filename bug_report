@@ -1,0 +1,13 @@
+<bugReport>
+	<Summary> краткое описание </Summary>				
+		<Steps to Reproduce> шаги воспроизведения:
+		<one> открыть </one>
+		<two> нажать </two>
+		</Steps to Reproduce>
+<Result> ФР </Result>
+<Expected Result> ОР </Expected Result>
+<Attachment> прикрепленный файл </Attachment>
+
+	<Severity> Серьезность <Severity>
+	<Priority> Приоритет <Priority>
+</bugReport>
